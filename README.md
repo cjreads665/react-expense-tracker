@@ -1,3 +1,2 @@
-# react-xy8bct
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-xy8bct)
+# Expense Tracker(No Local Storage)
+a React app made to understand the concept of React Hooks and Context API
